@@ -1,31 +1,52 @@
+# 💡 Garaje_Control_LED
 
-# Garaje_Control_LED - Proyecto Académico
-
-
-![Estado](https://img.shields.io/badge/Estado-👨‍💻_Desarrollo-yellow)
-![Última Actualización](https://img.shields.io/badge/Última_Actualización-2025-05-17-lightgray)
-![Licencia](https://img.shields.io/badge/Licencia-Creative_Commons-blue)
-
+![Estado](https://img.shields.io/badge/%F0%9F%A7%AA_En_Pruebas-orange) ![Licencia](https://img.shields.io/badge/Licencia-CC_BY_NC_ND_4.0-blue) ![Actualización](https://img.shields.io/badge/🔄_Última_actividad-2025--05--18-lightgrey)
 
 ## 📋 Descripción
-Proyecto académico desarrollado para la universidad.
+
+Proyecto académico desarrollado como parte de mi formación en ingeniería.
+
+**Objetivos de aprendizaje**:
+- Control remoto
+- Monitoreo variables
+
+**Características técnicas**:
+- Hardware Arduino
+- Sensores precisión
 
 ## 🛠 Tecnologías Utilizadas
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+**Hardware**:  ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)   
 
 ## 📂 Estructura del Proyecto
 📁 Garaje_Control_LED/
-    └── 📂 .git/
-        └── 📂 hooks/
-        └── 📂 info/
-        └── 📂 refs/
-        └── 📂 objects/
-        └── 📂 logs/
+
+*Nota: Estructura simplificada*
 
 ## 📄 Licencia
-Uso académico - Creative Commons
+
+Uso académico - Creative Commons BY-NC-ND 4.0
+
+© 2025 Julian Ramirez. Prohibido uso comercial sin autorización.
 
 ## 📬 Contacto Estudiante
-**Julian Alberto Ramirez**  
-🎓 Estudiante de Ingeniería de Sistemas  
+
+**Julian Alberto Ramirez**
+🎓 Estudiante de Ingeniería de Sistemas
+💻 Desarrollo Full Stack y Automatización
+🔍 Interesado en IA e Innovación
 📧 [juliram81@hotmail.com](mailto:juliram81@hotmail.com)
+🔗 [LinkedIn](https://linkedin.com/in/julianramirezc)
+
+---
+💡 **Notas del Estudiante**:
+Este trabajo demuestra:
+✅ Comprensión de conceptos teóricos
+✅ Habilidad para implementar soluciones
+✅ Capacidad de documentación técnica
+
+"La excelencia académica se construye con dedicación y atención al detalle"
+
+---
+📅 **Historial de Versiones**
+🔹 Versión actual: 1.0.0
+🔹 Última actualización: 2025-05-18
