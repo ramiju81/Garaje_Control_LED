@@ -1,6 +1,6 @@
 # 💡 Garaje_Control_LED
 
-![Estado](https://img.shields.io/badge/%F0%9F%A7%AA_En_Pruebas-orange) ![Licencia](https://img.shields.io/badge/Licencia-🔒%20Privada-red) ![Actualización](https://img.shields.io/badge/🔄_Última_actividad-2025--06--08%2019:48-lightgrey)
+![Estado](https://img.shields.io/badge/%F0%9F%A7%AA_En_Pruebas-orange) ![Licencia](https://img.shields.io/badge/Licencia-🔒%20Privada-red) ![Actualización](https://img.shields.io/badge/🔄_Última_actividad-2025--06--10%2000:12-lightgrey)
 
 ## 📋 Descripción
 
@@ -49,4 +49,4 @@ Este trabajo demuestra:
 ---
 📅 **Historial de Versiones**
 🔹 Versión actual: 1.0.0
-🔹 Última actualización: 2025-06-08 19:48
+🔹 Última actualización: 2025-06-10 00:12
